@@ -1,4 +1,5 @@
 Forked from [scienceetonnante/GameOfLife](https://github.com/scienceetonnante/GameOfLife)
+
 From  Youtube video https://www.youtube.com/watch?v=S-W0NX97DB0
 
 # Game of Life
@@ -37,5 +38,7 @@ Options:
 ## Setup needed
 
 python:3.6+
+
 pip:8.1.1+
+
 python3-tk:3.6+
